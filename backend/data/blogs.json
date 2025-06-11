@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1749620000001",
+    "title": "The Power of Mindset",
+    "content": "Success begins with a positive mindset and consistent effort.",
+    "author": {
+      "email": "defaultuser@example.com"
+    },
+    "createdAt": "2025-06-11T06:00:00.001Z",
+    "updatedAt": "2025-06-11T06:00:00.001Z"
+  },
+  {
+    "id": "1749620100002",
+    "title": "Learning JavaScript",
+    "content": "Start with variables, functions, and DOM manipulation for web development.",
+    "author": {
+      "email": "defaultuser@example.com"
+    },
+    "createdAt": "2025-06-11T06:01:40.002Z",
+    "updatedAt": "2025-06-11T06:01:40.002Z"
+  },
+  {
+    "id": "1749620200003",
+    "title": "Healthy Eating Habits",
+    "content": "Include vegetables, fruits, and plenty of water in your diet every day.",
+    "author": {
+      "email": "defaultuser@example.com"
+    },
+    "createdAt": "2025-06-11T06:03:20.003Z",
+    "updatedAt": "2025-06-11T06:03:20.003Z"
+  },
+  {
+    "id": "1749620300004",
+    "title": "Morning Routine Benefits",
+    "content": "Waking up early, exercising, and planning your day boosts productivity.",
+    "author": {
+      "email": "defaultuser@example.com"
+    },
+    "createdAt": "2025-06-11T06:05:00.004Z",
+    "updatedAt": "2025-06-11T06:05:00.004Z"
+  },
+  {
+    "id": "1749620400005",
+    "title": "How to Meditate",
+    "content": "Focus on your breathing and relax your body for 10 minutes daily.",
+    "author": {
+      "email": "defaultuser@example.com"
+    },
+    "createdAt": "2025-06-11T06:06:40.005Z",
+    "updatedAt": "2025-06-11T06:06:40.005Z"
+  },
+  {
+    "id": "1749620500006",
+    "title": "Simple Time Management",
+    "content": "Plan your tasks, avoid distractions, and set clear daily goals.",
+    "author": {
+      "email": "defaultuser@example.com"
+    },
+    "createdAt": "2025-06-11T06:08:20.006Z",
+    "updatedAt": "2025-06-11T06:08:20.006Z"
+  },
+  {
+    "id": "1749620600007",
+    "title": "Exercise for Beginners",
+    "content": "Start with walking, light jogging, or simple home workouts daily.",
+    "author": {
+      "email": "defaultuser@example.com"
+    },
+    "createdAt": "2025-06-11T06:10:00.007Z",
+    "updatedAt": "2025-06-11T06:10:00.007Z"
+  },
+  {
+    "id": "1749620700008",
+    "title": "Benefits of Journaling",
+    "content": "Write your thoughts to clear your mind and track progress.",
+    "author": {
+      "email": "defaultuser@example.com"
+    },
+    "createdAt": "2025-06-11T06:11:40.008Z",
+    "updatedAt": "2025-06-11T06:11:40.008Z"
+  },
+  {
+    "id": "1749618247407",
+    "title": "react",
+    "content": "this is react blog",
+    "author": {
+      "email": "defaultuser@example.com"
+    },
+    "createdAt": "2025-06-11T05:04:07.407Z",
+    "updatedAt": "2025-06-11T05:04:07.407Z"
+  }
+]

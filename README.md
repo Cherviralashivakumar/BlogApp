@@ -2,9 +2,7 @@
 
 This is a full stack blog application where users can create, view, and manage blog posts. The project uses **React.js (Frontend)** and **Node.js + Express.js (Backend)** with file-based storage using a JSON file.
 
----
-
-## 🚀 Features
+##  Features
 
 - User Authentication (Login & Signup)
 - Create, View, and List Blog Posts
@@ -14,9 +12,8 @@ This is a full stack blog application where users can create, view, and manage b
 - Protected routes
 - Full-stack architecture
 
----
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 

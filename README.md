@@ -1,12 +1,58 @@
-# React + Vite
+# 📝 BlogApp - Full Stack Blog Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a full stack blog application where users can create, view, and manage blog posts. The project uses **React.js (Frontend)** and **Node.js + Express.js (Backend)** with file-based storage using a JSON file.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- User Authentication (Login & Signup)
+- Create, View, and List Blog Posts
+- Pagination support
+- File-based database using JSON file
+- Clean and Responsive UI
+- Protected routes
+- Full-stack architecture
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React.js (with TypeScript support)
+- React Router DOM
+- Context API for Authentication
+- Axios (HTTP Client)
+
+### Backend
+
+- Node.js
+- Express.js
+- Body-Parser
+- CORS
+- JSON file storage (`blogs.json`)
+
+---
+
+## 📂 Folder Structure
+
+```bash
+blogapp/
+│
+├── backend/
+│   ├── server.js          # Express server entry
+│   ├── blogs.json         # Blog storage file
+│   └── routes/            # Backend routes
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/     # Reusable UI Components
+│   │   ├── pages/          # Login, Signup, Create Blog, Home Pages
+│   │   ├── contexts/       # AuthContext
+│   │   ├── services/       # API calls (Axios)
+│   │   └── App.tsx
+│   └── package.json
+│
+├── README.md
+└── package.json
